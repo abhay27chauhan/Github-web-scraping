@@ -1,0 +1,78 @@
+[
+	{
+		"IssueName": "[nodemon] app crashed - waiting for file changes before starting...",
+		"Link": "https://github.com/linnovate/mean/issues/2005"
+	},
+	{
+		"IssueName": "I have a problem with this issue . How I can solve this .",
+		"Link": "https://github.com/linnovate/mean/issues/2002"
+	},
+	{
+		"IssueName": "error",
+		"Link": "https://github.com/linnovate/mean/issues/2001"
+	},
+	{
+		"IssueName": "ERROR:Service 'app' failed to build: failed to register layer: Error processing tar file(exit status 1): write /usr/lib/gcc/x86_64-linux-gnu/6/lto1: no space left on device",
+		"Link": "https://github.com/linnovate/mean/issues/1991"
+	},
+	{
+		"IssueName": "ERR_CONNECTION_REFUSED",
+		"Link": "https://github.com/linnovate/mean/issues/1985"
+	},
+	{
+		"IssueName": "Error: Cannot find module 'npm'",
+		"Link": "https://github.com/linnovate/mean/issues/1984"
+	},
+	{
+		"IssueName": "sh: node: command not found",
+		"Link": "https://github.com/linnovate/mean/issues/1983"
+	},
+	{
+		"IssueName": "[nodemon] app crashed - waiting for file changes before starting...",
+		"Link": "https://github.com/linnovate/mean/issues/1973"
+	},
+	{
+		"IssueName": "when I use ngrok public url, it directs me to a ngrok page instead of the mean main page",
+		"Link": "https://github.com/linnovate/mean/issues/1971"
+	},
+	{
+		"IssueName": "Added MEAN to the popular stack using Node.js",
+		"Link": "https://github.com/linnovate/mean/issues/1967"
+	},
+	{
+		"IssueName": "http://mean.io broken link",
+		"Link": "https://github.com/linnovate/mean/issues/1955"
+	},
+	{
+		"IssueName": "I uploaded image to the server, but failed to bring images",
+		"Link": "https://github.com/linnovate/mean/issues/1954"
+	},
+	{
+		"IssueName": "Implementation of token",
+		"Link": "https://github.com/linnovate/mean/issues/1947"
+	},
+	{
+		"IssueName": "Mongodb does not start up",
+		"Link": "https://github.com/linnovate/mean/issues/1946"
+	},
+	{
+		"IssueName": "ValidationError: User validation failed: image: Path `image` is required.",
+		"Link": "https://github.com/linnovate/mean/issues/1944"
+	},
+	{
+		"IssueName": "Error: Can't find Python executable \"python",
+		"Link": "https://github.com/linnovate/mean/issues/1937"
+	},
+	{
+		"IssueName": "BUILD ERROR  following README installation instructions",
+		"Link": "https://github.com/linnovate/mean/issues/1929"
+	},
+	{
+		"IssueName": "getting MockMatchMedia error",
+		"Link": "https://github.com/linnovate/mean/issues/1925"
+	},
+	{
+		"IssueName": "npm install: JSON syntax error",
+		"Link": "https://github.com/linnovate/mean/issues/1907"
+	}
+]

@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "crashes on heroku, but not locally.",
+		"Link": "https://github.com/diegohaz/arc/issues/373"
+	},
+	{
+		"IssueName": "Non root path build",
+		"Link": "https://github.com/diegohaz/arc/issues/371"
+	},
+	{
+		"IssueName": "GraphQl Branch",
+		"Link": "https://github.com/diegohaz/arc/issues/357"
+	},
+	{
+		"IssueName": "Arc ssr (server side) CSS can not loaded.",
+		"Link": "https://github.com/diegohaz/arc/issues/350"
+	},
+	{
+		"IssueName": "A lot of packages is out of date",
+		"Link": "https://github.com/diegohaz/arc/issues/349"
+	},
+	{
+		"IssueName": "Customizing Storybook",
+		"Link": "https://github.com/diegohaz/arc/issues/345"
+	},
+	{
+		"IssueName": "Does not DELETE from entities",
+		"Link": "https://github.com/diegohaz/arc/issues/341"
+	},
+	{
+		"IssueName": "less-loader for ant-design",
+		"Link": "https://github.com/diegohaz/arc/issues/340"
+	},
+	{
+		"IssueName": "Browser not refreshing on code change",
+		"Link": "https://github.com/diegohaz/arc/issues/338"
+	},
+	{
+		"IssueName": "Minor spelling errors on arc.js.org",
+		"Link": "https://github.com/diegohaz/arc/issues/337"
+	},
+	{
+		"IssueName": "Working collection of bundle-shaving tips",
+		"Link": "https://github.com/diegohaz/arc/issues/336"
+	},
+	{
+		"IssueName": "css from external libraries",
+		"Link": "https://github.com/diegohaz/arc/issues/329"
+	},
+	{
+		"IssueName": "[redux] Containers and presenting information differently",
+		"Link": "https://github.com/diegohaz/arc/issues/328"
+	},
+	{
+		"IssueName": "Support different data sets for the same resource",
+		"Link": "https://github.com/diegohaz/arc/issues/327"
+	},
+	{
+		"IssueName": "Does ARc work with IE?",
+		"Link": "https://github.com/diegohaz/arc/issues/326"
+	},
+	{
+		"IssueName": "build does not work on local or github pages",
+		"Link": "https://github.com/diegohaz/arc/issues/324"
+	},
+	{
+		"IssueName": "Upgrade webpack-blocks to 1.0",
+		"Link": "https://github.com/diegohaz/arc/issues/315"
+	},
+	{
+		"IssueName": "Support for inferno",
+		"Link": "https://github.com/diegohaz/arc/issues/310"
+	},
+	{
+		"IssueName": "Support hyphen for url endpoints naming",
+		"Link": "https://github.com/diegohaz/arc/issues/309"
+	},
+	{
+		"IssueName": "[redux-ssr] Question about hasServerState, setServerState and cleanServerState",
+		"Link": "https://github.com/diegohaz/arc/issues/308"
+	},
+	{
+		"IssueName": "Localization",
+		"Link": "https://github.com/diegohaz/arc/issues/299"
+	},
+	{
+		"IssueName": "Are you using ARc? Please, read this.",
+		"Link": "https://github.com/diegohaz/arc/issues/294"
+	},
+	{
+		"IssueName": "DeprecationWarning, chunk.modules",
+		"Link": "https://github.com/diegohaz/arc/issues/293"
+	},
+	{
+		"IssueName": "[redux/entities] API path with child path not handled",
+		"Link": "https://github.com/diegohaz/arc/issues/292"
+	},
+	{
+		"IssueName": "[redux-ssr] signin deseapear when you refresh",
+		"Link": "https://github.com/diegohaz/arc/issues/291"
+	}
+]

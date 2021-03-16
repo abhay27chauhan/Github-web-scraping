@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "using column indices in the Custom Transformer",
+		"Link": "https://github.com/ageron/handson-ml/issues/615"
+	},
+	{
+		"IssueName": "Creating a test set with a hash (Issue 71 was closed)",
+		"Link": "https://github.com/ageron/handson-ml/issues/613"
+	},
+	{
+		"IssueName": "got an error while opening notebook Unreadable Notebook: C:\\requestshtml\\envdeepl\\02_end_to_end_machine_learning_project.ipynb NotJSONError(\"Notebook does not appear to be JSON: '\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n<!DOCTYPE html>\\\\n<html lang...\",)",
+		"Link": "https://github.com/ageron/handson-ml/issues/611"
+	},
+	{
+		"IssueName": "What does \"oecd_bli = oecd_bli[oecd_bli[\"INEQUALITY\"]==\"TOT\"]\" mean?",
+		"Link": "https://github.com/ageron/handson-ml/issues/609"
+	},
+	{
+		"IssueName": "Chapter 13. Model with Embedding layers outputs NaN",
+		"Link": "https://github.com/ageron/handson-ml/issues/606"
+	},
+	{
+		"IssueName": "Ch3: Implementing Cross-Validation",
+		"Link": "https://github.com/ageron/handson-ml/issues/605"
+	},
+	{
+		"IssueName": "Pipelines de transformation chapitre 2",
+		"Link": "https://github.com/ageron/handson-ml/issues/603"
+	},
+	{
+		"IssueName": "Chapter 2/median_house_value, Length: 16512, dtype: float64>, dtype=object) cannot be considered a valid collection.",
+		"Link": "https://github.com/ageron/handson-ml/issues/602"
+	},
+	{
+		"IssueName": "Issues with creating virtual environment instructions.",
+		"Link": "https://github.com/ageron/handson-ml/issues/600"
+	},
+	{
+		"IssueName": "trouble with urllib",
+		"Link": "https://github.com/ageron/handson-ml/issues/598"
+	},
+	{
+		"IssueName": "How to attach weights to the F1 score in sklearn",
+		"Link": "https://github.com/ageron/handson-ml/issues/592"
+	},
+	{
+		"IssueName": "ml2 end to end machine learining",
+		"Link": "https://github.com/ageron/handson-ml/issues/591"
+	},
+	{
+		"IssueName": "Hyper-parameter Tuning of Data preparation steps",
+		"Link": "https://github.com/ageron/handson-ml/issues/590"
+	},
+	{
+		"IssueName": "chapter one / not understanding pd.read parameters",
+		"Link": "https://github.com/ageron/handson-ml/issues/588"
+	},
+	{
+		"IssueName": "Facing this error I did all of below mentioned steps (running macOS)",
+		"Link": "https://github.com/ageron/handson-ml/issues/586"
+	},
+	{
+		"IssueName": "Chapter 3 - sgd_clf failed to converge with scaled data",
+		"Link": "https://github.com/ageron/handson-ml/issues/584"
+	},
+	{
+		"IssueName": "scikit-learn & tensorflow",
+		"Link": "https://github.com/ageron/handson-ml/issues/583"
+	},
+	{
+		"IssueName": "Chapter 6. Regression trees. Equation 6-4",
+		"Link": "https://github.com/ageron/handson-ml/issues/582"
+	},
+	{
+		"IssueName": "Unreadable Notebook: error: with 09_up_and_running_with_tensorflow.ipynb",
+		"Link": "https://github.com/ageron/handson-ml/issues/580"
+	},
+	{
+		"IssueName": "Code for Chapter 9 on Unsupervised Learning of latest edition",
+		"Link": "https://github.com/ageron/handson-ml/issues/579"
+	},
+	{
+		"IssueName": "Capsnet accuracy problem",
+		"Link": "https://github.com/ageron/handson-ml/issues/578"
+	},
+	{
+		"IssueName": "Chapter-2 error while getting the Housing datasets",
+		"Link": "https://github.com/ageron/handson-ml/issues/577"
+	},
+	{
+		"IssueName": "Prediction of RMSE",
+		"Link": "https://github.com/ageron/handson-ml/issues/576"
+	},
+	{
+		"IssueName": "cmap=plt.cm.gray, cmap=mpl.cm.binary and cmap=plt.get_cmap(\"gray\")",
+		"Link": "https://github.com/ageron/handson-ml/issues/575"
+	},
+	{
+		"IssueName": "ValueError: Number of features of the model must match the input",
+		"Link": "https://github.com/ageron/handson-ml/issues/572"
+	}
+]

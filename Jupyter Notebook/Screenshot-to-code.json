@@ -1,0 +1,30 @@
+[
+	{
+		"IssueName": "Corrupt weight file for bootstrap",
+		"Link": "https://github.com/emilwallner/Screenshot-to-code/issues/62"
+	},
+	{
+		"IssueName": "idea: Has anyone attempted this task using transformers?",
+		"Link": "https://github.com/emilwallner/Screenshot-to-code/issues/61"
+	},
+	{
+		"IssueName": "ValueError: GRU(reset_after=False) is not compatible with GRU(reset_after=True)",
+		"Link": "https://github.com/emilwallner/Screenshot-to-code/issues/58"
+	},
+	{
+		"IssueName": "how can I use this to generate the ideal HTML code(the code you've shown in readme.md)",
+		"Link": "https://github.com/emilwallner/Screenshot-to-code/issues/56"
+	},
+	{
+		"IssueName": "feat: Add support for JavaScript",
+		"Link": "https://github.com/emilwallner/Screenshot-to-code/issues/42"
+	},
+	{
+		"IssueName": "creating dataset",
+		"Link": "https://github.com/emilwallner/Screenshot-to-code/issues/38"
+	},
+	{
+		"IssueName": "Bootstrap version: Adding more flexibility to the DSL vocabulary",
+		"Link": "https://github.com/emilwallner/Screenshot-to-code/issues/26"
+	}
+]

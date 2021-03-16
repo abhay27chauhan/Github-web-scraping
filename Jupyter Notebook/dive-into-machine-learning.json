@@ -1,0 +1,26 @@
+[
+	{
+		"IssueName": "braindump",
+		"Link": "https://github.com/hangtwenty/dive-into-machine-learning/issues/127"
+	},
+	{
+		"IssueName": "section on timeseries DBs and tsfresh (automated feature extraction)",
+		"Link": "https://github.com/hangtwenty/dive-into-machine-learning/issues/121"
+	},
+	{
+		"IssueName": "add links to @rabst's books",
+		"Link": "https://github.com/hangtwenty/dive-into-machine-learning/issues/120"
+	},
+	{
+		"IssueName": "add link to Python Data Science Handbook",
+		"Link": "https://github.com/hangtwenty/dive-into-machine-learning/issues/119"
+	},
+	{
+		"IssueName": "Add info about Dask",
+		"Link": "https://github.com/hangtwenty/dive-into-machine-learning/issues/117"
+	},
+	{
+		"IssueName": "edX course on Data8",
+		"Link": "https://github.com/hangtwenty/dive-into-machine-learning/issues/111"
+	}
+]

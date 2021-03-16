@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "[Feature Request] Add new TFP syntax: JointDistribution*{AutoBatched}",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/517"
+	},
+	{
+		"IssueName": "Ch 5 Dark World, Text equation uses min by code uses max",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/516"
+	},
+	{
+		"IssueName": "In \"Ch2_MorePyMC_PyMC3\" under \"Including observations in the Model\" section",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/514"
+	},
+	{
+		"IssueName": "Trying to run code on the pymc/pymc3 Docker image",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/513"
+	},
+	{
+		"IssueName": "AttributeError: module 'tensorflow' has no attribute 'contrib'",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/505"
+	},
+	{
+		"IssueName": "ValueError: num must be 1 <= num <= 20, not 21",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/504"
+	},
+	{
+		"IssueName": "Ch1 TFP: Specify the posterior sampler",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/503"
+	},
+	{
+		"IssueName": "pymc doesn't work for 3.7; I think we need pymc3",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/501"
+	},
+	{
+		"IssueName": "Incorrect or ambiguous sentence in Ch. 1",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/500"
+	},
+	{
+		"IssueName": "switch point with different distribution",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/499"
+	},
+	{
+		"IssueName": "Chapter 2 using default random() makes error",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/495"
+	},
+	{
+		"IssueName": "Autocorrelation shown for differing lags is not statistical correlation?",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/494"
+	},
+	{
+		"IssueName": "normed option in plt.hist is deprecated",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/493"
+	},
+	{
+		"IssueName": "do you have code for Bayesian classifier for categorical data?",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/491"
+	},
+	{
+		"IssueName": "Chap2, Poisson from data rate issue",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/487"
+	},
+	{
+		"IssueName": "bibtex citation for this repo",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/484"
+	},
+	{
+		"IssueName": "installation in python 3",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/480"
+	},
+	{
+		"IssueName": "Syntax for tensorflow probability 0.70",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/475"
+	},
+	{
+		"IssueName": "Chapter 3 (TFP) joint log probability calculation issue",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/472"
+	},
+	{
+		"IssueName": "Chapter 1: \"Debugging tests\"",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/471"
+	},
+	{
+		"IssueName": "Chapter 2 | TFP | nbconvert reports \"You can't use `macro parameter character #' in restricted horizontal mode.\"",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/467"
+	},
+	{
+		"IssueName": "Chapter 1 | TFP | alert-success box not handled by nbconvert",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/466"
+	},
+	{
+		"IssueName": "Chapter 1 | TFP | nbconvert reports \"Erroneous nesting of equation structures\"",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/465"
+	},
+	{
+		"IssueName": "Chapter 2: typo",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/464"
+	},
+	{
+		"IssueName": "Chapter 2 Normal Distribution",
+		"Link": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/462"
+	}
+]

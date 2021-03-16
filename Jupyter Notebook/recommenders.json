@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "Getting com.microsoft.aad.msal4j.AcquireTokenSilentSupplier failed error on getting access token from clientSecret",
+		"Link": "https://github.com/microsoft/recommenders/issues/1345"
+	},
+	{
+		"IssueName": "[FEATURE] Replace internal comsos_cli package with azure-cosmos package",
+		"Link": "https://github.com/microsoft/recommenders/issues/1344"
+	},
+	{
+		"IssueName": "Cannot replicate LSTUR results for MIND large test",
+		"Link": "https://github.com/microsoft/recommenders/issues/1342"
+	},
+	{
+		"IssueName": "[ASK] problems in test",
+		"Link": "https://github.com/microsoft/recommenders/issues/1340"
+	},
+	{
+		"IssueName": "[FEATURE] make tqdm optional",
+		"Link": "https://github.com/microsoft/recommenders/issues/1333"
+	},
+	{
+		"IssueName": "[ASK] Why we need to put a tanh layer after kims_cnn module in dkn_item2item?",
+		"Link": "https://github.com/microsoft/recommenders/issues/1324"
+	},
+	{
+		"IssueName": "[ASK] get prediction of lstur model",
+		"Link": "https://github.com/microsoft/recommenders/issues/1320"
+	},
+	{
+		"IssueName": "[ASK] Serving Wide&Deep model",
+		"Link": "https://github.com/microsoft/recommenders/issues/1306"
+	},
+	{
+		"IssueName": "[ASK] Add top N recommended items for users in lightfm_deep_dive",
+		"Link": "https://github.com/microsoft/recommenders/issues/1296"
+	},
+	{
+		"IssueName": "[ASK] Can this be installed on Kaggle or Google Notebook environment?",
+		"Link": "https://github.com/microsoft/recommenders/issues/1295"
+	},
+	{
+		"IssueName": "[BUG] naml_MIND.ipynb in examples cannot run",
+		"Link": "https://github.com/microsoft/recommenders/issues/1291"
+	},
+	{
+		"IssueName": "[ASK] how could i have the text userDict_file please?",
+		"Link": "https://github.com/microsoft/recommenders/issues/1283"
+	},
+	{
+		"IssueName": "[ASK] Need more info for Wide&Deep and DeepFM models in the MIND paper",
+		"Link": "https://github.com/microsoft/recommenders/issues/1277"
+	},
+	{
+		"IssueName": "[ASK] recommendations for new users - NCF",
+		"Link": "https://github.com/microsoft/recommenders/issues/1273"
+	},
+	{
+		"IssueName": "How can I add exclude items while using BPR",
+		"Link": "https://github.com/microsoft/recommenders/issues/1264"
+	},
+	{
+		"IssueName": "Error in Sequential RS, Sli-Rec example",
+		"Link": "https://github.com/microsoft/recommenders/issues/1262"
+	},
+	{
+		"IssueName": "[ASK] Abnormal performance when training NPA algorithm",
+		"Link": "https://github.com/microsoft/recommenders/issues/1260"
+	},
+	{
+		"IssueName": "[ASK] Questions about the construction of user history",
+		"Link": "https://github.com/microsoft/recommenders/issues/1258"
+	},
+	{
+		"IssueName": "[ASK] [DISCUSSION] What kind of news is recommended",
+		"Link": "https://github.com/microsoft/recommenders/issues/1251"
+	},
+	{
+		"IssueName": "[FEATURE] use pytest-xdist",
+		"Link": "https://github.com/microsoft/recommenders/issues/1250"
+	},
+	{
+		"IssueName": "Multinomial VAE - performance",
+		"Link": "https://github.com/microsoft/recommenders/issues/1249"
+	},
+	{
+		"IssueName": "How to generate context embedding for DKN?[ASK]",
+		"Link": "https://github.com/microsoft/recommenders/issues/1246"
+	},
+	{
+		"IssueName": "[FEATURE] Mix MIND utils",
+		"Link": "https://github.com/microsoft/recommenders/issues/1240"
+	},
+	{
+		"IssueName": "[BUG]  can u provide the code how to gennerate  the data of  MINDSMALL_utils.zip ?",
+		"Link": "https://github.com/microsoft/recommenders/issues/1238"
+	},
+	{
+		"IssueName": "[BUG] smoke test creates folders in rootdir that should have been temporary",
+		"Link": "https://github.com/microsoft/recommenders/issues/1237"
+	}
+]

@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "I am new in Python Data Science. I have the error as follows:  ParserError: Error tokenizing data. C error: Expected 1 fields in line 12, saw 2 . How to resolve this?",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/295"
+	},
+	{
+		"IssueName": "ImportError: cannot import name 'RandomizedPCA' for 05.07-Support-Vector-Machines.ipynb",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/293"
+	},
+	{
+		"IssueName": "DS",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/292"
+	},
+	{
+		"IssueName": "Update Matplotlib formatters/tickers",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/284"
+	},
+	{
+		"IssueName": "How to convert Json file into Python in tabular form.",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/253"
+	},
+	{
+		"IssueName": "CSS: h2 code font-size",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/247"
+	},
+	{
+		"IssueName": "Errors in 05.14-Image-Features",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/245"
+	},
+	{
+		"IssueName": "PythonDataScienceHandbook",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/244"
+	},
+	{
+		"IssueName": "make_pipeline vs. atomic",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/242"
+	},
+	{
+		"IssueName": "Data",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/232"
+	},
+	{
+		"IssueName": "In depth: linear regression, example bicycle data",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/231"
+	},
+	{
+		"IssueName": "Python",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/229"
+	},
+	{
+		"IssueName": "Hacked found this in my files?  Please help.  Cannot decrypt",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/227"
+	},
+	{
+		"IssueName": "Python",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/226"
+	},
+	{
+		"IssueName": "[Solved] 5.4 Feature Engineering: Imputer Class is deprecated",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/225"
+	},
+	{
+		"IssueName": "Hierarchical Indexing",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/222"
+	},
+	{
+		"IssueName": "The concepts of logistic regression",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/221"
+	},
+	{
+		"IssueName": "Problem when installing Basemap",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/219"
+	},
+	{
+		"IssueName": "Issue downloading raw data",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/216"
+	},
+	{
+		"IssueName": "TypeError",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/214"
+	},
+	{
+		"IssueName": "Attribute Error",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/213"
+	},
+	{
+		"IssueName": "AttributeError: Unknown property axisbg",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/209"
+	},
+	{
+		"IssueName": "invalid argument syntax (axis)",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/207"
+	},
+	{
+		"IssueName": "Import Error: The Python Imaging Library (PIL) is required to load data from jpeg files",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/205"
+	},
+	{
+		"IssueName": "03.11 关于美国西雅图自行车统计数据可视化",
+		"Link": "https://github.com/jakevdp/PythonDataScienceHandbook/issues/204"
+	}
+]

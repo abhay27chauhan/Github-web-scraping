@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "Editable Carousel",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/575"
+	},
+	{
+		"IssueName": "Carousel Thumbnail Height Problem",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/570"
+	},
+	{
+		"IssueName": "dynamicHeight props not working properly on newer version of 3.2.12",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/567"
+	},
+	{
+		"IssueName": "False values shown as empty items when showThumbs is false",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/563"
+	},
+	{
+		"IssueName": "On swipe - onChange triggered twice",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/562"
+	},
+	{
+		"IssueName": "Why Carusel does not accept Next.js Image?",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/560"
+	},
+	{
+		"IssueName": "Re-downloading each image on every scroll",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/558"
+	},
+	{
+		"IssueName": "dynamic import issues",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/555"
+	},
+	{
+		"IssueName": "Hide Purely Visual Elements from Screen Readers",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/548"
+	},
+	{
+		"IssueName": "Focus given to non-interactive div",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/545"
+	},
+	{
+		"IssueName": "Ability to shift several thumbnails when clicking the control arrows",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/540"
+	},
+	{
+		"IssueName": "Position Thumbnails slider Above rendered view",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/539"
+	},
+	{
+		"IssueName": "Reset slider position on every render of carousel",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/536"
+	},
+	{
+		"IssueName": "Thanks",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/533"
+	},
+	{
+		"IssueName": "Setting selectedItem prop triggers onChange multiple times with \"controlled\" value",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/531"
+	},
+	{
+		"IssueName": "Slide overlap on closing pop up",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/529"
+	},
+	{
+		"IssueName": "Add list of props to ReadMe",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/528"
+	},
+	{
+		"IssueName": "How to prevent open link when user dragging and ends dragging element?",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/527"
+	},
+	{
+		"IssueName": "Disable window scrolling while swiping horizontally on tab in phone",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/526"
+	},
+	{
+		"IssueName": "Timer does not reset when the carousel image is changed through indicators",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/525"
+	},
+	{
+		"IssueName": "[BUG] Timeout memory leak on unmount",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/524"
+	},
+	{
+		"IssueName": "How do I use renderIndicator",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/523"
+	},
+	{
+		"IssueName": "Swipeable doesn't work on desktop browsers (without touch)",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/521"
+	},
+	{
+		"IssueName": "Loop is not working when you gives selectedItem",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/520"
+	},
+	{
+		"IssueName": "Please provide a additional prop for the thumbnail height as thumbnail width",
+		"Link": "https://github.com/leandrowd/react-responsive-carousel/issues/519"
+	}
+]

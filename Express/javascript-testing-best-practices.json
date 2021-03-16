@@ -1,0 +1,74 @@
+[
+	{
+		"IssueName": "Russian translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/159"
+	},
+	{
+		"IssueName": "Thai Translation 🇹🇭",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/151"
+	},
+	{
+		"IssueName": "Dutch translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/148"
+	},
+	{
+		"IssueName": "5.6 Constantly inspect for vulnerable dependencies",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/141"
+	},
+	{
+		"IssueName": "Backend testing",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/138"
+	},
+	{
+		"IssueName": "Vietnamese Translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/133"
+	},
+	{
+		"IssueName": "Turkish translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/122"
+	},
+	{
+		"IssueName": "Ukrainian translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/104"
+	},
+	{
+		"IssueName": "🎓 Preview my Node.js testing course",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/103"
+	},
+	{
+		"IssueName": "Section 1.9 and 2.7 are duplicates",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/102"
+	},
+	{
+		"IssueName": "Cover image and link to medium article",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/101"
+	},
+	{
+		"IssueName": "Spanish translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/99"
+	},
+	{
+		"IssueName": "French Translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/72"
+	},
+	{
+		"IssueName": "Indonesian Translation",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/71"
+	},
+	{
+		"IssueName": "Credits to contributors",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/67"
+	},
+	{
+		"IssueName": "2nd example of bullet 3.10 is missing",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/52"
+	},
+	{
+		"IssueName": "Section 1.1 example code should check for true, not false",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/26"
+	},
+	{
+		"IssueName": "Use Mocha's context (alias for describe)",
+		"Link": "https://github.com/goldbergyoni/javascript-testing-best-practices/issues/25"
+	}
+]

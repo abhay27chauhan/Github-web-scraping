@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "Add missing unit tests to the components",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1967"
+	},
+	{
+		"IssueName": "Devise confirmable clashing with Google and Facebook OAuth",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1964"
+	},
+	{
+		"IssueName": "Implement 2FA During Login",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1919"
+	},
+	{
+		"IssueName": "Pell WYSIWYG editor color not accessible",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1898"
+	},
+	{
+		"IssueName": "Fix act warnings in Jest tests",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1857"
+	},
+	{
+		"IssueName": "Requesting Indonesia Translation",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1855"
+	},
+	{
+		"IssueName": "Devise deprecation warnings",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1851"
+	},
+	{
+		"IssueName": "Refactor spec/controllers/pages_controller_spec.rb to spec/request/page_spec.rb",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1833"
+	},
+	{
+		"IssueName": "Refactor spec/controllers/moods_controller_spec.rb to spec/request/mood_spec.rb",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1830"
+	},
+	{
+		"IssueName": "Refactor spec/controllers/meetings_controller_spec.rb to spec/request/meeting_spec.rb",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1828"
+	},
+	{
+		"IssueName": "Refactor spec/controllers/locales_controller_spec.rb to spec/request/locale_spec.rb",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1826"
+	},
+	{
+		"IssueName": "Refactor RSpec Controller Specs to Request Specs",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1815"
+	},
+	{
+		"IssueName": "Migrate client/app/components/Modal/__tests__/Modal.spec.jsx to use React Testing Library instead of Enzyme",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1794"
+	},
+	{
+		"IssueName": "Allow Users to Add Members to Groups",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1751"
+	},
+	{
+		"IssueName": "Recommend resources for users to use in Moments posts",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1713"
+	},
+	{
+		"IssueName": "Suggested Password strength features checks  should be visible to the first time user who are signing up",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1696"
+	},
+	{
+		"IssueName": "Should the client app use a type checker?",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1690"
+	},
+	{
+		"IssueName": "Track progress on strategies",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1687"
+	},
+	{
+		"IssueName": "Add time support for Medications",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1601"
+	},
+	{
+		"IssueName": "Functionality to download your user data",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1560"
+	},
+	{
+		"IssueName": "Front-end: uploading Images in Moments and Strategies",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1481"
+	},
+	{
+		"IssueName": "Requesting Japanese Translation",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1215"
+	},
+	{
+		"IssueName": "Improve performance on production by reducing JS payloads",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1024"
+	},
+	{
+		"IssueName": "Possible injection vulnerability",
+		"Link": "https://github.com/ifmeorg/ifme/issues/1006"
+	},
+	{
+		"IssueName": "Add Github authetication",
+		"Link": "https://github.com/ifmeorg/ifme/issues/961"
+	}
+]

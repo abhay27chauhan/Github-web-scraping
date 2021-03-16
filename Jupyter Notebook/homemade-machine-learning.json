@@ -1,0 +1,50 @@
+[
+	{
+		"IssueName": "ML",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/35"
+	},
+	{
+		"IssueName": "Predictions",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/29"
+	},
+	{
+		"IssueName": "Website not getting redirect?",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/22"
+	},
+	{
+		"IssueName": "error LogisticRegression",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/21"
+	},
+	{
+		"IssueName": "Update Machine Learning Map ?",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/20"
+	},
+	{
+		"IssueName": "theta[0] is caculated twice in per gradient_step at LinearRegression",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/17"
+	},
+	{
+		"IssueName": "use line function to test linear regression",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/15"
+	},
+	{
+		"IssueName": "Include semi-supervised learning in the map",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/8"
+	},
+	{
+		"IssueName": "Translation to Spanish",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/5"
+	},
+	{
+		"IssueName": "Chinese translation",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/4"
+	},
+	{
+		"IssueName": "Add Google Colaboratory support",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/2"
+	},
+	{
+		"IssueName": "Get rid of Scipy dependency for LogisticRegression gradient descent",
+		"Link": "https://github.com/trekhleb/homemade-machine-learning/issues/1"
+	}
+]

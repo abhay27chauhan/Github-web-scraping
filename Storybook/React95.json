@@ -1,0 +1,42 @@
+[
+	{
+		"IssueName": "Import icons when used instead of adding to CSS",
+		"Link": "https://github.com/React95/React95/issues/235"
+	},
+	{
+		"IssueName": "When a Window title changes, it doesn't update in taskbar",
+		"Link": "https://github.com/React95/React95/issues/231"
+	},
+	{
+		"IssueName": "reference windows by id, not by title",
+		"Link": "https://github.com/React95/React95/issues/194"
+	},
+	{
+		"IssueName": "react95/core package import all icons and weight up the bundle size",
+		"Link": "https://github.com/React95/React95/issues/189"
+	},
+	{
+		"IssueName": "Wrong font",
+		"Link": "https://github.com/React95/React95/issues/158"
+	},
+	{
+		"IssueName": "New Modals",
+		"Link": "https://github.com/React95/React95/issues/154"
+	},
+	{
+		"IssueName": "Alert sound",
+		"Link": "https://github.com/React95/React95/issues/152"
+	},
+	{
+		"IssueName": "add defaultValue and value props support for some form like components",
+		"Link": "https://github.com/React95/React95/issues/100"
+	},
+	{
+		"IssueName": "I would love to create the FileSystem loading state",
+		"Link": "https://github.com/React95/React95/issues/84"
+	},
+	{
+		"IssueName": "Update storybook UI",
+		"Link": "https://github.com/React95/React95/issues/33"
+	}
+]

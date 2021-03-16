@@ -1,0 +1,46 @@
+[
+	{
+		"IssueName": "🐛 cache middleware: panic: websocket: bad handshake",
+		"Link": "https://github.com/gofiber/fiber/issues/1227"
+	},
+	{
+		"IssueName": "🐛 Streaming with SetBodyStreamWriter results in deadlock",
+		"Link": "https://github.com/gofiber/fiber/issues/1225"
+	},
+	{
+		"IssueName": "🐛 JSON body & FormFile are not captured properly using Lambda Fiber adapter",
+		"Link": "https://github.com/gofiber/fiber/issues/1223"
+	},
+	{
+		"IssueName": "🐛  (macOS) Prefork is not working as expected",
+		"Link": "https://github.com/gofiber/fiber/issues/1208"
+	},
+	{
+		"IssueName": "🤗 Should BodyParser pick up form files for multipart forms?",
+		"Link": "https://github.com/gofiber/fiber/issues/1199"
+	},
+	{
+		"IssueName": "not detecting when client cancels request 🐛",
+		"Link": "https://github.com/gofiber/fiber/issues/1160"
+	},
+	{
+		"IssueName": "🐛 Session corrupted after save to sqlite3",
+		"Link": "https://github.com/gofiber/fiber/issues/1138"
+	},
+	{
+		"IssueName": "🚀 cache middleware: set maximum size of cache",
+		"Link": "https://github.com/gofiber/fiber/issues/1136"
+	},
+	{
+		"IssueName": "vscode Press F5 to open debugging, print garbled",
+		"Link": "https://github.com/gofiber/fiber/issues/1124"
+	},
+	{
+		"IssueName": "Can i custom session_id position?🤗",
+		"Link": "https://github.com/gofiber/fiber/issues/1110"
+	},
+	{
+		"IssueName": "🐛  BodyParser does not save empty string to field",
+		"Link": "https://github.com/gofiber/fiber/issues/1084"
+	}
+]

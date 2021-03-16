@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "apollo-server-lambda: remove old callback style",
+		"Link": "https://github.com/apollographql/apollo-server/issues/5018"
+	},
+	{
+		"IssueName": "formatResponse typings: null response?",
+		"Link": "https://github.com/apollographql/apollo-server/issues/5009"
+	},
+	{
+		"IssueName": "[RESTDataSource]: allow per-request caching logic",
+		"Link": "https://github.com/apollographql/apollo-server/issues/5007"
+	},
+	{
+		"IssueName": "Plugin event callbacks should be async",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4999"
+	},
+	{
+		"IssueName": "Simplify `ApolloError` implementation and docs",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4977"
+	},
+	{
+		"IssueName": "Add support for GraphQL multipart requests in apollo-server-fastify",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4975"
+	},
+	{
+		"IssueName": "Lambda encodes query parameters differently behind ALB and behind API Gateway, and apollo-server-lambda only handles the API Gateway version",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4974"
+	},
+	{
+		"IssueName": "Cannot separate route configs for POST and GET requests",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4967"
+	},
+	{
+		"IssueName": "Upgrade as much as possible",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4966"
+	},
+	{
+		"IssueName": "apollo-server-cache-redis doesn't update after mutations",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4962"
+	},
+	{
+		"IssueName": "AS3: Consider documenting migration to graphql-ws in addition to how to preserve subscriptions-transport-ws",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4960"
+	},
+	{
+		"IssueName": "No server response regardless of processes all running",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4958"
+	},
+	{
+		"IssueName": "Consider removing `apollo-server-testing`",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4952"
+	},
+	{
+		"IssueName": "Design an API that lets you use graphql-upload with apollo-server-lambda",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4951"
+	},
+	{
+		"IssueName": "Consider whether `dataSources` needs to continue to be part of apollo-server-core",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4950"
+	},
+	{
+		"IssueName": "Dependency Dashboard",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4934"
+	},
+	{
+		"IssueName": "`apollo-server`'s stop() hangs when running in jest jsdom browser-emulation mode due to lack of timer.unref",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4933"
+	},
+	{
+		"IssueName": "Support Health Checks for Azure functions package",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4925"
+	},
+	{
+		"IssueName": "AS3: Consider upgrading to the latest graphql-tools",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4923"
+	},
+	{
+		"IssueName": "No way to await errors on server startup",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4921"
+	},
+	{
+		"IssueName": "Consider typing for `gateway` parameter in AS3",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4919"
+	},
+	{
+		"IssueName": "Usage Reporting Plugin: Error encoding trace: root.child.error.message: string expected",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4918"
+	},
+	{
+		"IssueName": "Missing support of async cors configuration for Fastify",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4911"
+	},
+	{
+		"IssueName": "Documentation Improvement: schema property",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4895"
+	},
+	{
+		"IssueName": "Cacheing in progress events issue",
+		"Link": "https://github.com/apollographql/apollo-server/issues/4888"
+	}
+]

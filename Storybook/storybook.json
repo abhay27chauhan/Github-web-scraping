@@ -1,0 +1,102 @@
+[
+	{
+		"IssueName": "Giant vendor directory chunk on run storybook caused by some issue described in a warning",
+		"Link": "https://github.com/storybookjs/storybook/issues/14248"
+	},
+	{
+		"IssueName": "Default props with handsontable causes infinite loading",
+		"Link": "https://github.com/storybookjs/storybook/issues/14247"
+	},
+	{
+		"IssueName": "Improve addons-docs blocks documentation",
+		"Link": "https://github.com/storybookjs/storybook/issues/14244"
+	},
+	{
+		"IssueName": "Why Storybook TS does not support `as`?",
+		"Link": "https://github.com/storybookjs/storybook/issues/14240"
+	},
+	{
+		"IssueName": "addon-toolbars: add support for keyboard shortcuts/navigation",
+		"Link": "https://github.com/storybookjs/storybook/issues/14239"
+	},
+	{
+		"IssueName": "Switch @storybook/addon-docs to XDM",
+		"Link": "https://github.com/storybookjs/storybook/issues/14238"
+	},
+	{
+		"IssueName": "[6.2.0-beta.11] MDX Merges Heading Levels 1 and 2",
+		"Link": "https://github.com/storybookjs/storybook/issues/14231"
+	},
+	{
+		"IssueName": "Vue3 + TSX",
+		"Link": "https://github.com/storybookjs/storybook/issues/14229"
+	},
+	{
+		"IssueName": "Object control does not work with value property containing string with commas",
+		"Link": "https://github.com/storybookjs/storybook/issues/14225"
+	},
+	{
+		"IssueName": "[6.2.0-beta.14] using asset/source Webpack 5 loader returns export string",
+		"Link": "https://github.com/storybookjs/storybook/issues/14222"
+	},
+	{
+		"IssueName": "Version 6.1.21 of `@storybook/vue` breaks '*.vue' module types",
+		"Link": "https://github.com/storybookjs/storybook/issues/14220"
+	},
+	{
+		"IssueName": "Old images for new docs",
+		"Link": "https://github.com/storybookjs/storybook/issues/14218"
+	},
+	{
+		"IssueName": "Need a reliable way to test if storybook page is ready programatically",
+		"Link": "https://github.com/storybookjs/storybook/issues/14216"
+	},
+	{
+		"IssueName": "[6.2.0-beta.14] Unknown exception created by Scroller",
+		"Link": "https://github.com/storybookjs/storybook/issues/14214"
+	},
+	{
+		"IssueName": "Search input activated when pressing '/' in text knob/control",
+		"Link": "https://github.com/storybookjs/storybook/issues/14207"
+	},
+	{
+		"IssueName": "dispatched CustomEvent not showing up in Actions",
+		"Link": "https://github.com/storybookjs/storybook/issues/14205"
+	},
+	{
+		"IssueName": "Range slider value label changes handle position and causes jittering",
+		"Link": "https://github.com/storybookjs/storybook/issues/14204"
+	},
+	{
+		"IssueName": "MDX fails to render docs with Vue3",
+		"Link": "https://github.com/storybookjs/storybook/issues/14201"
+	},
+	{
+		"IssueName": "Storybook 6.2.0-beta.13 not transforming class properties",
+		"Link": "https://github.com/storybookjs/storybook/issues/14197"
+	},
+	{
+		"IssueName": "Typescript React event type references are not recognized as a function",
+		"Link": "https://github.com/storybookjs/storybook/issues/14194"
+	},
+	{
+		"IssueName": "Angular source code view unavailable until control toggled",
+		"Link": "https://github.com/storybookjs/storybook/issues/14193"
+	},
+	{
+		"IssueName": "[Angular] Generated attributes with auto generated id (like nghost)",
+		"Link": "https://github.com/storybookjs/storybook/issues/14192"
+	},
+	{
+		"IssueName": "Unable to resolve path to module '@storybook/react/types-6-0'",
+		"Link": "https://github.com/storybookjs/storybook/issues/14190"
+	},
+	{
+		"IssueName": "Solution for duplicate kinds in a distributed fashion",
+		"Link": "https://github.com/storybookjs/storybook/issues/14189"
+	},
+	{
+		"IssueName": "MDX auto HeaderWithOcticonAnchor links in iframe have incorrect url.",
+		"Link": "https://github.com/storybookjs/storybook/issues/14188"
+	}
+]

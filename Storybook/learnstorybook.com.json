@@ -1,0 +1,82 @@
+[
+	{
+		"IssueName": "Portuguese translation",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/458"
+	},
+	{
+		"IssueName": "design-systems-for-developer: workflow: Little Typo",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/446"
+	},
+	{
+		"IssueName": "design-systems-for-developer: workflow: AvatarList.stories.js Errors",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/445"
+	},
+	{
+		"IssueName": "Some Tutorial Instructions Not working (Package Scoping and some other): Distribute",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/444"
+	},
+	{
+		"IssueName": "Babel pipeline config did not work as instructed in tutorial \"Design Systems for Developers\"",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/440"
+	},
+	{
+		"IssueName": "Missing instruction to enter real Chromatic token in yml file",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/439"
+	},
+	{
+		"IssueName": "Intro to Storybook templates",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/431"
+	},
+	{
+		"IssueName": "Testing Connected Components",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/421"
+	},
+	{
+		"IssueName": "Eng-Ko translation needed in Get-Started page",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/415"
+	},
+	{
+		"IssueName": "Change references to `master` to `main` to reflect GitHub's new default branch name",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/408"
+	},
+	{
+		"IssueName": "Intro to Storybook code base updates",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/386"
+	},
+	{
+		"IssueName": "Cyrillic support",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/371"
+	},
+	{
+		"IssueName": "By following the tutorial, what I got isn't the same as what tutorial present",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/352"
+	},
+	{
+		"IssueName": "Translation updates",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/350"
+	},
+	{
+		"IssueName": "Relative Linking",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/347"
+	},
+	{
+		"IssueName": "Guides link dropdown in navigation is missing focus color.",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/253"
+	},
+	{
+		"IssueName": "Fix prettier settings for MD files or reformat all of them",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/162"
+	},
+	{
+		"IssueName": "Vue with TypeScript Example Configs Missing",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/92"
+	},
+	{
+		"IssueName": "Learn Storybook sequel – Mastering Storybook – a guide for intermediate/advanced users",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/77"
+	},
+	{
+		"IssueName": "Translations wanted",
+		"Link": "https://github.com/chromaui/learnstorybook.com/issues/3"
+	}
+]
